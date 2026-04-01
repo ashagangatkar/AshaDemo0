@@ -8,5 +8,6 @@ public class DemoTest {
 	public void KGFTest()
 	{
 		System.out.println("Yash");
+		System.out.println("Radhika");
 	}
 }
